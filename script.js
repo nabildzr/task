@@ -79,12 +79,12 @@ var lessonContent = `
        <div class="hero">
                 <div class="title title-between">
                     <div>Lesson</div>
-                    <a href=""><button class="title-inside title-hover-text font-small">Source Code</button></a>
+                    <a href="https://github.com/nabildzr/task/tree/main/lesson"><button class="title-inside title-hover-text font-small">Source Code</button></a>
                 </div>
                 <div class="container-text">
                     <div class="sub">AIO = All in One, Click "View" to see.</div>
 
-                    <div class="title-inside-bottom title-hover-text font-small">Source Code</div>
+                    <a target="_blank" href="https://github.com/nabildzr/task/tree/main/lesson"><div class="title-inside-bottom title-hover-text font-small">Source Code</div></a>
                 </div>
             </div>
             <div class="table-responsive">
@@ -307,12 +307,12 @@ var javascriptContent = `
     <div class="hero font-large">
                 <div class="title title-between">
                     <div>Javascript</div>
-                    <a href=""><button class="title-inside title-hover-text font-small">Source Code</button></a>
+                    <a href="https://github.com/nabildzr/task/tree/main/javascript"><button class="title-inside title-hover-text font-small">Source Code</button></a>
                 </div>
                 <div class="container-text">
                     <div class="sub">Click "View" to see.</div>
 
-                    <div class="title-inside-bottom title-hover-text title-hover-text font-small">Source Code</div>
+                    <a target="_blank" href="https://github.com/nabildzr/task/tree/main/javascript"><div class="title-inside-bottom title-hover-text title-hover-text font-small">Source Code</div></a>
                 </div>
             </div>
             <div class="table-responsive">
@@ -396,12 +396,12 @@ var portfolioContent = `
              <div class="hero font-large">
                 <div class="title title-between">
                     <div>Portfolio</div>
-                    <a href=""><button class="title-inside title-hover-text font-small">Source Code</button></a>
+                    <a href="https://github.com/nabildzr/task/tree/main/portfolio"><button class="title-inside title-hover-text font-small">Source Code</button></a>
                 </div>
                 <div class="container-text">
                     <div class="sub">Click "View" to see.</div>
 
-                    <div class="title-inside-bottom title-hover-text title-hover-text font-small">Source Code</div>
+                    <a target="_blank" href="https://github.com/nabildzr/task/tree/main/portfolio"><div class="title-inside-bottom title-hover-text title-hover-text font-small">Source Code</div></a>
                 </div>
             </div>
             <div class="table-responsive">
